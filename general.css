@@ -1,0 +1,18 @@
+
+.fl{float: left}
+.fr{float: right}
+.tc{text-align: center}
+.tl{text-align: left}
+.tr{text-align: right}
+.ma{margin:0 auto}
+.fn{font-weight:normal; font-style:normal;}
+.fb{font-weight:bold;}
+.cw{color:white;}
+.cb{color:black;}
+.di{display: inline-block}
+.db{display: block}
+.w{width: 100%}
+.cl{clear: both}
+.md{display: table-cell;vertical-align: middle;text-align: center}
+.head-height{height:80px;}
+.font-n{font-weight: normal}
